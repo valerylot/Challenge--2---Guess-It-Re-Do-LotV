@@ -1,0 +1,14 @@
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Challenge #2 - Guess It Re-Do LotV/bin/Debug/net10.0/Challenge #2 - Guess It Re-Do LotV
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Challenge #2 - Guess It Re-Do LotV/bin/Debug/net10.0/Challenge #2 - Guess It Re-Do LotV.deps.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Challenge #2 - Guess It Re-Do LotV/bin/Debug/net10.0/Challenge #2 - Guess It Re-Do LotV.runtimeconfig.json
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Challenge #2 - Guess It Re-Do LotV/bin/Debug/net10.0/Challenge #2 - Guess It Re-Do LotV.dll
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Challenge #2 - Guess It Re-Do LotV/bin/Debug/net10.0/Challenge #2 - Guess It Re-Do LotV.pdb
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Challenge #2 - Guess It Re-Do LotV/obj/Debug/net10.0/Challenge #2 - Guess It Re-Do LotV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Challenge #2 - Guess It Re-Do LotV/obj/Debug/net10.0/Challenge #2 - Guess It Re-Do LotV.AssemblyInfoInputs.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Challenge #2 - Guess It Re-Do LotV/obj/Debug/net10.0/Challenge #2 - Guess It Re-Do LotV.AssemblyInfo.cs
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Challenge #2 - Guess It Re-Do LotV/obj/Debug/net10.0/Challenge #2 - Guess It Re-Do LotV.csproj.CoreCompileInputs.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Challenge #2 - Guess It Re-Do LotV/obj/Debug/net10.0/Challenge #2 - Guess It Re-Do LotV.dll
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Challenge #2 - Guess It Re-Do LotV/obj/Debug/net10.0/refint/Challenge #2 - Guess It Re-Do LotV.dll
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Challenge #2 - Guess It Re-Do LotV/obj/Debug/net10.0/Challenge #2 - Guess It Re-Do LotV.pdb
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Challenge #2 - Guess It Re-Do LotV/obj/Debug/net10.0/Challenge #2 - Guess It Re-Do LotV.genruntimeconfig.cache
+/Users/valerylot/Desktop/CodeStack Combine /Homework/Challenge #2 - Guess It Re-Do LotV/obj/Debug/net10.0/ref/Challenge #2 - Guess It Re-Do LotV.dll

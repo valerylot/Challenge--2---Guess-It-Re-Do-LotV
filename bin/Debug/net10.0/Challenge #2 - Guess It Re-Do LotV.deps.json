@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Challenge #2 - Guess It Re-Do LotV/1.0.0": {
+        "runtime": {
+          "Challenge #2 - Guess It Re-Do LotV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challenge #2 - Guess It Re-Do LotV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
