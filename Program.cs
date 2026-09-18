@@ -18,7 +18,6 @@ Console.Clear();
 GuessingGame gameOne = new GuessingGame();
 // Console.WriteLine(gameOne.randNum);
 
-//CHOOSE MODE 1
 do
 {
     gameOne.StartGame();
